@@ -27,7 +27,7 @@ This portfolio showcases not only my skills in **web development** but also my d
 ## 📈 Portfolio Link
 
 You can view my live portfolio here:  
-🔗 [Portfolio Website Link]([https://680c070a29fee42b10bb7373--extraordinary-churros-a223ba.netlify.app/](https://rityuj-portfolio.netlify.app/))
+🔗 [Portfolio Website Link](https://rityuj-portfolio.netlify.app/)
 
 ## 🚧 Project Status
 
